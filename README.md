@@ -1,7 +1,7 @@
 # LatihanOOP
 Nama : Aimar Noor Rayyan Guritno
 kelas : X-RPL
-mata pelajaran : Algoritma dan Pemrogramman dasar
+Mata pelajaran : Algoritma dan Pemrogramman dasar
 
 1. Jelaskan mengapa hasilnya false.
 2. hapus satu kurung kurawal penutup di class Siswa. Catat pesan error NetBeans, lalu perbaiki.
